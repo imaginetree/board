@@ -155,4 +155,30 @@
             </plugin>
         </plugins>
     </build>
+    <developers>
+    	<developer>
+    		<id>imaginetree</id>
+    		<name>Su Hee, Kim</name>
+    		<email>koreagml@gmail.com</email>
+    		<organization>Study Group</organization>
+    		<organizationUrl>https://github.com/imaginetree/board</organizationUrl>
+    		<timezone>+9</timezone>
+    		<roles>
+    			<role>Architect</role>
+    			<role>Developer</role>
+    		</roles>
+    	</developer>
+    	<developer>
+    		<id></id>
+    		<name>Eun Young, Park</name>
+    		<email>chicpark1120@naver.com</email>
+    		<organization>Study Group</organization>
+    		<organizationUrl>https://github.com/imaginetree/board</organizationUrl>
+    		<timezone>+9</timezone>
+    		<roles>
+    			<role>Architect</role>
+    			<role>Developer</role>
+    		</roles>
+    	</developer>
+    </developers>
 </project>
